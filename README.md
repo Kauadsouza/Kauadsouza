@@ -35,7 +35,7 @@ While most teenagers are still finding their passions, I already found mine: **c
 - When the marketing team couldn’t build landing pages, I created a **custom lead management system** with a backend and CSV export.
 
 ### 🧠 Lifelong Learner  
-- I currently study at **Colégio Dom Bosco**, but I’m preparing to transfer to **Colégio Nacional** for a higher academic challenge.
+- I currently study at **Colégio Nacional**, one of the top high schools in my city, known for its academic excellence.
 - I take **English classes**, **mathematics courses**, and self-study for the **SAT** using books like *The College Panda* series.
 - I attend the gym regularly, serve in my local church, and stay focused on learning, even when it’s hard.
 
@@ -43,11 +43,10 @@ While most teenagers are still finding their passions, I already found mine: **c
 
 ## 🌟 My Projects
 
-### 🔹 Null Forge  
-An open-source initiative to teach beginners how to code in a simple, powerful way.  
-GitHub: [github.com/Kauadsouza/Null-Forge](https://github.com/Kauadsouza/Null-Forge)
+### 🔹 [Null Forge](https://github.com/Kauadsouza/Null-Forge)  
+An open-source initiative to teach beginners how to code in a simple, powerful way.
 
-### 🔹 Finance Card  
+### 🔹 [Finance Card](https://github.com/Kauadsouza/financecard)  
 A hybrid between a digital bank and a learning platform about investing.  
 Built to educate people of all ages about finance in a fun and accessible way.  
 Made for a science and entrepreneurship fair — and praised by all who saw it.
@@ -55,20 +54,27 @@ Made for a science and entrepreneurship fair — and praised by all who saw it.
 ### 🔹 HLTS Real Estate Landing Pages  
 I created multiple lead-gen sites for real estate launches:
 - **Place + Oásis**
-- **Union Landscape**
-- Fully responsive front-end, back-end, and .CSV database system — all coded from scratch.
+- **Union Landscape**  
+Fully responsive front-end, back-end, and .CSV database system — all coded from scratch.
 
 ---
 
-## 🌍 What I Believe
+## 🛠️ Tech Stack
 
-I don’t want to just “pass” in life.  
-I want to **lead**, **inspire**, and **transform**.
+- **Languages:** HTML, CSS, JavaScript, Python
+- **Frameworks:** React.js (learning), Flask, FastAPI
+- **Tools:** Git, GitHub, Vercel, Figma, Canva
+- **Other:** Google Ads, Meta Ads, CSV, Web Deploy, Email Automation
 
-I believe:
-- You don’t need money to start — you need **vision** and **grit**.
-- Coding is the most powerful tool of the 21st century — and it should be **free and accessible to all**.
-- Harvard isn’t a trophy — it’s a **platform to multiply my purpose**.
+---
+
+## 🧑‍💻 My GitHub Philosophy
+
+Every project here is a piece of my journey.  
+I only share what I understand and what I’ve built with purpose.  
+
+If you’re a recruiter or collaborator, know this:  
+**I don’t copy — I create, I adapt, I grow.**
 
 ---
 
@@ -77,7 +83,7 @@ I believe:
 | Time          | Activity                              |
 |---------------|----------------------------------------|
 | 5:00 AM       | Wake up, personal development          |
-| 7:00–12:20    | School (Dom Bosco / soon Colégio Nacional) |
+| 7:00–12:20    | School (Colégio Nacional)              |
 | 12:30–17:30   | Work (Traffic Manager / Developer)     |
 | 18:40–21:00   | English classes / Math courses / Gym / Programming |
 | Night         | Self-study (SAT, projects, coding)     |
@@ -104,7 +110,8 @@ I will apply to:
 - Oxford 🇬🇧  
 - Cambridge 🇬🇧
 
-And if I get rejected? I’ll build my own path anyway. I’m not waiting for permission to make an impact.
+And if I get rejected? I’ll build my own path anyway.  
+I’m not waiting for permission to make an impact.
 
 ---
 
