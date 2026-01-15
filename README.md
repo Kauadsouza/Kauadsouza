@@ -1,136 +1,161 @@
-# 🌎 Kauã Diniz — A Young Visionary from Brazil
+# 🌍 Kauã Diniz — Building the Future, One Line of Code at a Time
 
-> “Harvard will know my name — not because I was born ready, but because I chose to fight for it every single day.”  
-> — *Kauã Diniz*
+> *“If you’re reading this, it’s because someday you’ll hear my name again.  
+> Not for fame, but for the impact I chose to create.”*  
+> — Kauã Diniz  
 
----
-
-## 👤 About Me
-
-My name is **Kauã Diniz**, I’m a 17-year-old student, self-taught programmer, and aspiring Computer Scientist from Uberlândia, Brazil.  
-I’m not just another student — I’m a builder of dreams, fueled by purpose and passion.
-
-I dream big. My eyes are set on **Harvard University**, the **Massachusetts Institute of Technology (MIT)**, or **Oxford**, not because I want prestige — but because I want **impact**. I believe technology can change lives. My greatest goal is to use it to change mine and then, help others do the same.
+Welcome to my GitHub.  
+This is not just a portfolio. This is a **story in progress**.
 
 ---
 
-## 🌱 My Origin Story
+## 👤 Who I Am
 
-My academic journey hasn’t been easy. I repeated the first year of high school, struggled with ADHD, and for a while, I felt like I was falling behind.  
-But these challenges didn’t break me — they built me. I started waking up at 5 AM, balancing school, work, coding, English, and personal projects. Even when things were slow or lonely, I never let go of the fire inside me.
+My name is **Kauã Diniz**, I’m 18 years old, a Brazilian developer, entrepreneur, and future Computer Science student with global ambitions.  
+I am building my path with discipline, resilience, and a vision bigger than myself.
 
-While most teenagers are still finding their passions, I already found mine: **creating things that matter**.
-
----
-
-## 🚀 What I Do
-
-### 💻 Developer & Entrepreneur  
-- I’m the **founder of Null Forge**, an educational and creative tech project to help beginners learn programming and digital skills.
-- I’ve built systems from scratch — including **lead capture pages**, **email automations**, and **educational fintech prototypes**.
-- I’m passionate about using HTML, CSS, JavaScript, and Python to create real-world tools — even with minimal resources.
-
-### 📊 Digital Marketer  
-- I work as a **traffic manager**, running paid ads and helping real estate companies generate leads.
-- When the marketing team couldn’t build landing pages, I created a **custom lead management system** with a backend and CSV export.
-
-### 🧠 Lifelong Learner  
-- I currently study at **Colégio Nacional**, one of the top high schools in my city, known for its academic excellence.
-- I take **English classes**, **mathematics courses**, and self-study for the **SAT** using books like *The College Panda* series.
-- I attend the gym regularly, serve in my local church, and stay focused on learning, even when it’s hard.
+I don’t want success just for recognition.  
+I want success so I can **build ecosystems that empower people**, open doors to education, and create opportunities through technology.
 
 ---
 
-## 🌟 My Projects
+## 🌱 My Journey
 
-### 🔹 [Null Forge](https://github.com/Kauadsouza/Null-Forge)  
-An open-source initiative to teach beginners how to code in a simple, powerful way.
+My path was never linear.
 
-### 🔹 [Finance Card](https://github.com/Kauadsouza/financecard)  
-A hybrid between a digital bank and a learning platform about investing.  
-Built to educate people of all ages about finance in a fun and accessible way.  
-Made for a science and entrepreneurship fair — and praised by all who saw it.
+In 2023, I repeated my first year of high school.  
+Not because of lack of intelligence, but because life demanded more from me than school alone. I had to work early, and many times my parents believed I should stop studying to focus only on surviving.
 
-### 🔹 HLTS Real Estate Landing Pages  
-I created multiple lead-gen sites for real estate launches:
-- **Place + Oásis**
-- **Union Landscape**  
-Fully responsive front-end, back-end, and .CSV database system — all coded from scratch.
+In 2024, I spent the first half of the year only working.  
+My motivation slowly faded. I started believing that my dreams were too big for someone like me.
 
----
+But then something changed.
 
-## 🛠️ Tech Stack
+I went back to school in the middle of the year, studying at night and working in the morning.  
+In just half a year, I recovered everything. I passed. I proved to myself that discipline beats circumstance.  
+My teachers supported me, and I honored that trust.
 
-- **Languages:** HTML, CSS, JavaScript, Python
-- **Frameworks:** React.js (learning), Flask, FastAPI
-- **Tools:** Git, GitHub, Vercel, Figma, Canva
-- **Other:** Google Ads, Meta Ads, CSV, Web Deploy, Email Automation
+In 2025, I asked my parents to **invest in me**, not financially only, but emotionally and mentally.  
+They believed. I returned to private school, studying in the morning, working in the afternoon, and building my projects at night.
+
+That’s when programming stopped being just interest and became **purpose**.
 
 ---
 
-## 🧑‍💻 My GitHub Philosophy
+## 🚀 What I’m Building Now
 
-Every project here is a piece of my journey.  
-I only share what I understand and what I’ve built with purpose.  
+### 🔥 Null Forge — A Tech Ecosystem
 
-If you’re a recruiter or collaborator, know this:  
-**I don’t copy — I create, I adapt, I grow.**
+Null Forge is my main project and my biggest vision.
 
----
+It is not just a platform.  
+It is an **ecosystem**, inspired by innovation hubs like UberHub:
 
-## 📅 My Current Routine
+- A place where people can:
+  - Learn programming for free
+  - Access premium projects and paid solutions
+  - Sell and showcase their own projects
+  - Join a community focused on growth and social impact
+- A bridge between **education, technology, and entrepreneurship**
+- A movement, not just a website
 
-| Time          | Activity                              |
-|---------------|----------------------------------------|
-| 5:00 AM       | Wake up, personal development          |
-| 7:00–12:20    | School (Colégio Nacional)              |
-| 12:30–17:30   | Work (Traffic Manager / Developer)     |
-| 18:40–21:00   | English classes / Math courses / Gym / Programming |
-| Night         | Self-study (SAT, projects, coding)     |
-
-Even when I feel exhausted or unmotivated, I remember my dream. That’s what keeps me going.
+My goal is to make Null Forge a reference in tech education and digital creation.
 
 ---
 
-## 🧭 My Mission
+## 🧠 Skills & Stack
 
-> **"To use code, creativity, and courage to create a better world — starting with mine."**
+I am constantly improving, but today I already work confidently with:
+
+- **Languages**
+  - HTML  
+  - CSS  
+  - JavaScript  
+  - TypeScript  
+  - Python  
+
+- **Currently Learning & Expanding**
+  - Backend architecture
+  - Scalable systems
+  - Advanced TypeScript
+  - Cloud deployment
+  - System design
+
+- **Mindset**
+  - I don’t just write code.
+  - I design solutions.
+  - I think in systems.
+  - I think in impact.
 
 ---
 
-## 🎓 The Future
+## 🏗️ My Philosophy
 
-I know that my academic past wasn’t perfect.  
-But that’s what makes my journey special. I’m not just aiming to be the best **despite** my background — I want to be the best **because** of it.
+I don’t copy projects.  
+I build ideas.
 
-I will apply to:
-- Harvard University 🇺🇸  
-- MIT 🇺🇸  
-- Stanford 🇺🇸  
-- Oxford 🇬🇧  
-- Cambridge 🇬🇧
+I don’t chase shortcuts.  
+I build consistency.
 
-And if I get rejected? I’ll build my own path anyway.  
-I’m not waiting for permission to make an impact.
+I don’t want to be just a developer.  
+I want to be an **entrepreneur who uses technology to change realities**.
+
+---
+
+## 🌎 Global Vision
+
+My dream is to study **Computer Science** in the world’s top universities, especially within the **Ivy League ecosystem** and institutions that shape leaders, innovators, and builders.
+
+Not for status.  
+But because environments of excellence create people of excellence.
+
+I want to learn globally.  
+I want to build locally and globally.  
+I want to return value to society.
+
+In the future:
+- Study abroad
+- Live in different countries
+- Build international projects
+- Create opportunities for others who once felt invisible, like I did
+
+---
+
+## 🎯 Why This GitHub Exists
+
+This GitHub is proof that:
+
+- I started with nothing but discipline
+- I learned through struggle
+- I build through vision
+- And I grow through consistency
+
+Every repository here represents:
+- Courage to start
+- Commitment to evolve
+- Responsibility to create value
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: [github.com/Kauadsouza](https://github.com/Kauadsouza)
-- LinkedIn: [linkedin.com/in/kaua-diniz-0888b4261](https://www.linkedin.com/in/kaua-diniz-0888b4261)
-- Email: kauadsouza@gmail.com
+- GitHub: https://github.com/Kauadsouza  
+- LinkedIn: https://www.linkedin.com/in/kaua-diniz-0888b4261  
+- Email: kauadsouza@gmail.com  
 
 ---
 
-## 📌 Final Words
+## 📌 Final Message
 
-If you’ve read this far, thank you.  
-I’m not perfect, but I’m real. I’m young, but I’m focused.  
-I may come from Brazil — but my dreams have no borders.
+If you’re reading this now, remember:
 
-**This is just the beginning. Harvard will see. The world will see.**
+You’re not watching a finished story.  
+You’re watching the **beginning of a trajectory**.
 
-Let’s build something great.
+I’m building more than software.  
+I’m building identity, discipline, impact, and legacy.
 
-— *Kauã Diniz*
+One day, when people ask where it all started,  
+the answer will be simple:
+
+**Right here.**
