@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1200&color=2563EB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kaua+Diniz+Souza+%F0%9F%91%8B;Full-Stack+Developer;Building+AI+%26+Automation+Tools" alt="Typing SVG" />
+# Hi, I'm Kauã Diniz Souza 👋
 
 <p>
   <strong>Early-Career Full-Stack Developer</strong><br>
@@ -123,17 +123,6 @@ My work combines full-stack web development, local artificial intelligence, prod
 I prefer independent, deployable systems with clear responsibilities — each project has its own codebase, data boundaries and security model.
 
 ARTX Hub is the private navigation and planning layer across my systems. CONDOR remains a separate local AI system with its own encrypted memory and computer-side permission boundaries.
-
-<br>
-
-## GitHub stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kauadsouza&show_icons=true&hide_border=true&bg_color=00000000&title_color=2563EB&icon_color=2563EB&text_color=9CA3AF&hide_rank=true" alt="Kauadsouza's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauadsouza&layout=compact&hide_border=true&bg_color=00000000&title_color=2563EB&text_color=9CA3AF&langs_count=8" alt="Top languages" />
-
-</div>
 
 <br>
 
