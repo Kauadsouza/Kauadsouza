@@ -10,10 +10,10 @@ My current focus is building the [@KauaArtx](https://www.youtube.com/@KauaArtx) 
 | --- | --- | --- | --- |
 | **Condor AI** | Local-first personal AI with one persistent identity, encrypted memory, explicit permissions and optional local or external models | Python, FastAPI, cryptography, local AI, TypeScript | [Source](https://github.com/Kauadsouza/Condor-Ai) |
 | **ARTX Hub** | Private command centre that connects my independent systems without merging their code, data or security boundaries | Next.js, React, TypeScript, Supabase | [Source](https://github.com/Kauadsouza/ARTX-Hub) · [Live](https://artx-hub.vercel.app) |
-| **Video Production System** | Eight-stage YouTube workflow for ideas, scripts, recording, editing, review and publishing | Next.js, Prisma, PostgreSQL, TypeScript | [Source](https://github.com/Kauadsouza/Sistema-Videos) · [Live](https://sistema-videos.vercel.app) |
+| **KauaArtx Video Studio** | Eight-stage YouTube workflow for ideas, scripts, recording, editing, review and publishing | Next.js, Prisma, PostgreSQL, TypeScript | [Source](https://github.com/Kauadsouza/KauaArtx-Video-Studio) · [Live](https://sistema-videos.vercel.app) |
 | **SAT & English Learning** | Bilingual learning platform with daily English practice and SAT, ACT and TOEFL study tracks | React, Vite, TypeScript, IndexedDB, Supabase | [Source](https://github.com/Kauadsouza/SAT-simulado) · [Live](https://sat-simulado.vercel.app) |
-| **University Path** | Private, source-backed workflow for UK Computer Science applications, deadlines and documents | Next.js, TypeScript, Supabase Storage | [Source](https://github.com/Kauadsouza/University-Path) · [Live](https://university-path-six.vercel.app) |
-| **KauaArtx** | Bilingual content platform with stories, an interactive travel map, publishing tools and Oxford-focused pages | Next.js, next-intl, Supabase, D3, Vercel | [Source](https://github.com/Kauadsouza/KauaArtx) · [Live](https://kauaartx.vercel.app) |
+| **University Path** | Private, source-backed workflow for UK Computer Science applications, deadlines and documents | Next.js, TypeScript, Supabase Storage | Private source · [Live](https://university-path-six.vercel.app) |
+| **Site KauaArtx** | Bilingual content platform with stories, an interactive travel map, publishing tools and Oxford-focused pages | Next.js, next-intl, Supabase, D3, Vercel | [Source](https://github.com/Kauadsouza/Site-KauaArtx) · [Live](https://kauaartx.vercel.app) |
 
 ## How the ecosystem fits together
 
