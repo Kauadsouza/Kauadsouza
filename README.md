@@ -17,7 +17,7 @@
 <p>
   <img src="https://img.shields.io/badge/Location-Oxford%2C%20United%20Kingdom-111827?style=flat-square" alt="Location: Oxford, United Kingdom">
   <img src="https://img.shields.io/badge/Focus-Full--Stack%20%7C%20AI%20%7C%20Automation-2563EB?style=flat-square" alt="Focus: Full-Stack, AI and Automation">
-  <img src="https://img.shields.io/badge/Open%20to-Early--Career%20Roles-16A34A?style=flat-square" alt="Open to early-career roles">
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-16A34A?style=flat-square" alt="Open to opportunities">
 </p>
 
 </div>
@@ -94,7 +94,7 @@ My work combines full-stack web development, local artificial intelligence, prod
       <td><a href="https://university-path-six.vercel.app/">Live</a></td>
     </tr>
     <tr>
-      <td><strong>KauaArtx Website</strong></td>
+      <td><strong>Site KauaArtx</strong></td>
       <td>Bilingual content platform with stories, an interactive travel map, publishing tools and Oxford-focused pages.</td>
       <td>Next.js · next-intl · Supabase · D3 · Vercel</td>
       <td>
