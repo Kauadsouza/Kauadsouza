@@ -1,21 +1,36 @@
 # Hi, I'm Kauã Diniz Souza
 
-Self-taught junior software developer based in Oxford, UK. I started coding in 2022 and learn primarily by building real projects. I work with TypeScript, Next.js, React, Python and Supabase, and document the process on my content channel, @KauaArtx.
+I'm a self-taught developer and creator based in Oxford, UK. I started programming in 2022 and learn by building real products around personal productivity, education, content creation and local-first AI.
 
-## Selected work
+My current focus is building the [@KauaArtx](https://www.youtube.com/@KauaArtx) YouTube channel and preparing for Computer Science studies in Oxford.
 
-| Project | What it demonstrates | Stack | Links |
-|---|---|---|---|
-| KauaArtx | Bilingual (pt/en) content platform for the @KauaArtx channel: a Supabase-backed blog, an interactive travel map built with D3/TopoJSON, and a production deployment on Vercel | Next.js, TypeScript, React, Supabase, PostgreSQL, next-intl, D3, Vercel | [Live demo](https://kauaartx.vercel.app) &middot; [Source](https://github.com/Kauadsouza/KauaArtx-sitee) |
+## Selected systems
+
+| Project | What it does | Stack | Links |
+| --- | --- | --- | --- |
+| **Condor AI** | Local-first personal AI with one persistent identity, encrypted memory, explicit permissions and optional local or external models | Python, FastAPI, cryptography, local AI, TypeScript | [Source](https://github.com/Kauadsouza/Condor-Ai) |
+| **ARTX Hub** | Private command centre that connects my independent systems without merging their code, data or security boundaries | Next.js, React, TypeScript, Supabase | [Source](https://github.com/Kauadsouza/ARTX-Hub) · [Live](https://artx-hub.vercel.app) |
+| **Video Production System** | Eight-stage YouTube workflow for ideas, scripts, recording, editing, review and publishing | Next.js, Prisma, PostgreSQL, TypeScript | [Source](https://github.com/Kauadsouza/Sistema-Videos) · [Live](https://sistema-videos.vercel.app) |
+| **SAT & English Learning** | Bilingual learning platform with daily English practice and SAT, ACT and TOEFL study tracks | React, Vite, TypeScript, IndexedDB, Supabase | [Source](https://github.com/Kauadsouza/SAT-simulado) · [Live](https://sat-simulado.vercel.app) |
+| **University Path** | Private, source-backed workflow for UK Computer Science applications, deadlines and documents | Next.js, TypeScript, Supabase Storage | [Source](https://github.com/Kauadsouza/University-Path) · [Live](https://university-path-six.vercel.app) |
+| **KauaArtx** | Bilingual content platform with stories, an interactive travel map, publishing tools and Oxford-focused pages | Next.js, next-intl, Supabase, D3, Vercel | [Source](https://github.com/Kauadsouza/KauaArtx) · [Live](https://kauaartx.vercel.app) |
+
+## How the ecosystem fits together
+
+Each product is an independent repository and deployable system. ARTX Hub is the private navigation and planning layer. Condor remains a separate local AI system with its own encrypted memory and computer-side security boundary.
 
 ## Engineering focus
 
-My current focus: full-stack web development with TypeScript, Next.js and React; PostgreSQL and Supabase, including authentication and data modeling; internationalized, responsive front-ends with next-intl and Tailwind CSS; form validation and data handling with Zod and React Hook Form; and Python, which I'm actively learning and applying in personal projects. I'm also currently hardening testing, CI/CD and security practices on my active projects.
+- Full-stack TypeScript with Next.js and React.
+- PostgreSQL and Supabase authentication, storage and Row Level Security.
+- Local-first Python systems, encryption and explicit permission models.
+- Responsive bilingual interfaces and content platforms.
+- Automated tests, production builds, dependency scanning and CI.
 
-## Now
+## Current chapter
 
-Right now I'm based in Oxford, UK, preparing for Computer Science studies, building and documenting projects under the @KauaArtx brand, and growing the @KauaArtx YouTube channel.
+I live in Oxford with my family and document this new phase through @KauaArtx. The work here reflects what I am building now: stronger engineering foundations, a growing content platform and preparation for university.
 
 ## Connect
 
-[Portfolio](https://kauaartx.vercel.app) &middot; [LinkedIn](https://www.linkedin.com/in/kaua-diniz-0888b4261) &middot; Email: kauadsouza@gmail.com
+[Portfolio](https://kauaartx.vercel.app) · [YouTube](https://www.youtube.com/@KauaArtx) · [LinkedIn](https://www.linkedin.com/in/kaua-diniz-0888b4261) · [Email](mailto:kauadsouza@gmail.com)
